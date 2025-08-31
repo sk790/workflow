@@ -1,0 +1,25 @@
+{
+  "name": "githubaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk790/workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sk790/workflow/issues"
+  },
+  "homepage": "https://github.com/sk790/workflow#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
